@@ -48,3 +48,15 @@ support@xdiodos.com
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Visual Assets
+
+Public showcase assets are available under:
+
+```text
+assets/logo/
+assets/badges/
+
+The logo and grade badge images are provided for product demonstration and documentation purposes only.
+
+All rights reserved by xDiodos / OSSIP Lab.
