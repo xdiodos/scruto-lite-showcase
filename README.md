@@ -60,3 +60,37 @@ assets/badges/
 The logo and grade badge images are provided for product demonstration and documentation purposes only.
 
 All rights reserved by xDiodos / OSSIP Lab.
+
+## Product Screenshots
+
+### Landing Page
+
+![Scruto Lite Landing Page](screenshots/01-landing-page.png)
+
+### Consent Page
+
+![Scruto Lite Consent Page](screenshots/02-consent-page.png)
+
+### Scan Progress
+
+![Scruto Lite Scan Progress](screenshots/03-scan-progress.png)
+
+### Web Report Summary
+
+![Scruto Lite Web Report Summary](screenshots/04-web-report-summary.png)
+
+### Scan Reliability and Score Breakdown
+
+![Scruto Lite Reliability and Score Breakdown](screenshots/05-web-report-reliability-score.png)
+
+### Findings and Evidence
+
+![Scruto Lite Findings and Evidence](screenshots/06-web-report-findings.png)
+
+### Improvement Roadmap
+
+![Scruto Lite Improvement Roadmap](screenshots/07-web-report-roadmap.png)
+
+### Recommendations and Feedback
+
+![Scruto Lite Recommendations and Feedback](screenshots/08-web-report-recommendations.png)
