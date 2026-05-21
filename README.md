@@ -39,23 +39,22 @@ Scruto Lite currently includes:
 - Recommendation aggregation
 - Feedback Channel
 
-## Contact
+## Documentation
 
-For product questions, feedback, or report-related inquiries:
-
-support@xdiodos.com
-
-## License
-
-All rights reserved. See [LICENSE](LICENSE).
+- [Overview](docs/overview.md)
+- [Usage Flow](docs/usage-flow.md)
+- [Scan Policy](docs/scan-policy.md)
+- [Scoring Methodology](docs/scoring-methodology.md)
+- [Report Guide](docs/report-guide.md)
+- [Public Scope](docs/public-scope.md)
+- [FAQ](docs/faq.md)
 
 ## Visual Assets
 
 Public showcase assets are available under:
 
-```text
-assets/logo/
-assets/badges/
+- assets/logo/
+- assets/badges/
 
 The logo and grade badge images are provided for product demonstration and documentation purposes only.
 
@@ -65,32 +64,54 @@ All rights reserved by xDiodos / OSSIP Lab.
 
 ### Landing Page
 
-![Scruto Lite Landing Page](screenshots/01-landing-page.png)
+<img src="screenshots/01-landing-page.png" alt="Scruto Lite Landing Page" width="900">
 
 ### Consent Page
 
-![Scruto Lite Consent Page](screenshots/02-consent-page.png)
+<img src="screenshots/02-consent-page.png" alt="Scruto Lite Consent Page" width="900">
 
 ### Scan Progress
 
-![Scruto Lite Scan Progress](screenshots/03-scan-progress.png)
+<img src="screenshots/03-scan-progress.png" alt="Scruto Lite Scan Progress" width="900">
 
 ### Web Report Summary
 
-![Scruto Lite Web Report Summary](screenshots/04-web-report-summary.png)
+<img src="screenshots/04-web-report-summary.png" alt="Scruto Lite Web Report Summary" width="900">
 
 ### Scan Reliability and Score Breakdown
 
-![Scruto Lite Reliability and Score Breakdown](screenshots/05-web-report-reliability-score.png)
+<img src="screenshots/05-web-report-reliability-score.png" alt="Scruto Lite Reliability and Score Breakdown" width="900">
 
 ### Findings and Evidence
 
-![Scruto Lite Findings and Evidence](screenshots/06-web-report-findings.png)
+<img src="screenshots/06-web-report-findings.png" alt="Scruto Lite Findings and Evidence" width="900">
 
 ### Improvement Roadmap
 
-![Scruto Lite Improvement Roadmap](screenshots/07-web-report-roadmap.png)
+<img src="screenshots/07-web-report-roadmap.png" alt="Scruto Lite Improvement Roadmap" width="900">
 
 ### Recommendations and Feedback
 
-![Scruto Lite Recommendations and Feedback](screenshots/08-web-report-recommendations.png)
+<img src="screenshots/08-web-report-recommendations.png" alt="Scruto Lite Recommendations and Feedback" width="900">
+
+## Sample Report
+
+A redacted sample PDF report will be provided under:
+
+- samples/reports/
+
+## Public Repository Scope
+
+This repository is intended for product showcase and public documentation only.
+
+It is not an open-source scanner repository and does not include implementation details.
+
+## Contact
+
+For product questions, feedback, or report-related inquiries:
+
+support@xdiodos.com
+
+## License
+
+All rights reserved. See [LICENSE](LICENSE).
