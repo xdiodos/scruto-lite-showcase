@@ -1,5 +1,18 @@
 # Scruto Lite Showcase
 
+## Access Scruto Lite
+
+Scruto Lite is available at:
+
+https://scruto.xdiodos.com
+
+Please only scan websites, domains, or systems that you own, operate, or are explicitly authorized to assess.
+
+For feedback or report-related questions, contact:
+
+support@xdiodos.com
+
+
 Scruto Lite is a lightweight security assessment and reporting experience designed for basic website exposure review, readable security reporting, and early-stage security awareness.
 
 This repository is a public showcase repository.
