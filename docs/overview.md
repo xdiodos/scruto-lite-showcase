@@ -14,3 +14,12 @@ It focuses on:
 Scruto Lite is not intended to replace a full penetration test, enterprise vulnerability management platform, compliance audit, or formal certification process.
 
 This repository is a public showcase repository and does not include source code or scanner implementation details.
+
+## Access
+
+Scruto Lite is available at:
+
+https://scruto.xdiodos.com
+
+Please only scan websites, domains, or systems that you own, operate, or are explicitly authorized to assess.
+
