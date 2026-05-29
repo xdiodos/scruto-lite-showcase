@@ -128,3 +128,46 @@ support@xdiodos.com
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+---
+
+## Scruto API Early Preview
+
+Scruto API is a safe external API exposure scan feature for publicly reachable API endpoints.
+
+It focuses on visibility and risk signals, not exploitation.
+
+Scruto API currently checks for:
+
+- Public API documentation exposure
+- CORS risk signals
+- GraphQL exposure signals
+- Sensitive data indicators
+- Error and debug leakage
+- Protection Signal / Scan Visibility
+
+Safety policy:
+
+- No login
+- No token testing
+- No brute force
+- No exploitation
+- No authentication bypass
+- No destructive testing
+
+Scruto API only performs safe, unauthenticated, read-only checks using GET, HEAD, and OPTIONS.
+
+Preview:
+
+https://scruto.xdiodos.com/scruto-api
+
+More details:
+
+- [Scruto API](docs/scruto-api.md)
+- [Scruto API Usage Flow](docs/scruto-api-usage-flow.md)
+
+### Scruto API Screenshots
+
+- [Landing page](screenshots/scruto-api/01-api-landing.png)
+- [Usage notice](screenshots/scruto-api/02-api-consent.png)
+- [API scan report](screenshots/scruto-api/03-api-report.png)
