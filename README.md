@@ -171,3 +171,19 @@ More details:
 - [Landing page](screenshots/scruto-api/01-api-landing.png)
 - [Usage notice](screenshots/scruto-api/02-api-consent.png)
 - [API scan report](screenshots/scruto-api/03-api-report.png)
+
+---
+
+## Scruto API Preview Screenshots
+
+### Landing Page
+
+![Scruto API landing page](screenshots/scruto-api/01-api-landing.png)
+
+### Usage Notice
+
+![Scruto API consent page](screenshots/scruto-api/02-api-consent.png)
+
+### API Scan Report
+
+![Scruto API report](screenshots/scruto-api/03-api-report.png)
